@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dillipmishr
+- 👋 Hi, I’m Dillip Kumar Mishra
 - 👀 I’m interested in Quantum communication, quantum informatiocs, Quantum teleportation, Internet of things.
 - 🌱 I’m currently learning Quantum communication
 - 💞️ I’m looking to collaborate on Quantum teleportion, Quantum Machinlearning, Object teleportation.
